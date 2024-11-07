@@ -1,0 +1,7 @@
+#Features
+
+- Component to create a comment
+    - Comments is limited to 100 characters
+    - Components have two fields: comment section(input field); comment button (button).
+- Landing page with list of blog posted
+    - Summary of all the comment posted
